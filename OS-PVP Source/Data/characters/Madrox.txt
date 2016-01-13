@@ -1,0 +1,300 @@
+[ACCOUNT]
+character-username = Madrox
+character-password = 87f2a79d0e03c1e2a8af186fefb7b3b9
+
+[CHARACTER]
+character-height = 0
+play-time = 69885
+character-specRestore = 0
+character-posx = 3092
+character-posy = 3497
+bank-pin = 
+bank-pin-cancellation = false
+bank-pin-cancellation-delay = -1
+character-rights = 3
+character-title-updated = 
+character-title-color = 
+connected-from = 50.45.49.176
+killed-players = 69.176.9.79
+killed-players = 69.47.77.121
+killed-players = 108.231.2.62
+removedTask0 = -1
+removedTask1 = -1
+removedTask2 = -1
+removedTask3 = -1
+desert-treasure = 0
+dt-kill = 0
+horror-from-deep = 0
+rfd-round = 0
+quest-points = 0
+cooks-assistant = 0
+lastLoginDate = 0
+has-npc = false
+summonId = 0
+startPack = true
+setPin = false
+slayer-recipefalse
+claimedReward = false
+dragonfire-shield-charge = 0
+wave-id = 0
+wave-type = 0
+wave-info = 0	0	0
+zulrah-best-time = 0
+toxic-pipe-ammo = 811
+toxic-pipe-amount = 1000
+toxic-pipe-charge = 1000
+serpentine-helm = 11000
+toxic-staff-of-dead = 0
+trident-of-the-seas = 0
+trident-of-the-swamp = 150
+bankPin1 = 0
+bankPin2 = 0
+bankPin3 = 0
+bankPin4 = 0
+hasBankpin = false
+pinRegisteredDeleteDay = 0
+requestPinDelete = false
+slayerPoints =0
+crystal-bow-shots = 0
+skull-timer = -1
+magic-book = 2
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+prayer-amount = 0.47311919640868727
+selected-coffin = 0
+KC =3
+DC =3
+total-hunter-kills = 1
+total-rogue-kills = 2
+target-time-delay = 500
+bh-penalties = 0
+bh-bounties = 0
+statistics-visible = true
+spell-accessible = false
+zerkAmount = 
+pkp = 2
+donP =0
+donA =0
+giftA =0
+votePoints = 0
+achievement-points = 0
+achievement-items = -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+xpLock = false
+teleblock-length = 0
+pc-points = 0
+killStreak = 0
+bonus-end = 0
+jail-end = 0
+mute-end = 0
+marketmute-end = 0
+ban-end = 0
+splitChat = false
+slayerTask = 0
+taskAmount = 0
+magePoints = 0
+autoRet = 1
+barrowskillcount = 0
+flagged = false
+keepTitle = false
+killTitle = false
+wave = 0
+gwkc = 0
+fightMode = 3
+privatechat = 0
+void = 0	0	0	0	0
+firesLit = 0
+crabsKilled = 0
+farming-patch-0 = 0	0	0	0
+lost-items = 
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	12809	1	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	13109362
+character-skill = 1	99	13109358
+character-skill = 2	99	13073040
+character-skill = 3	96	13064102
+character-skill = 4	99	13036711
+character-skill = 5	99	13034436
+character-skill = 6	99	13621536
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	14485	1
+
+[BANK]
+bank-tab = 0	996	2000000
+bank-tab = 0	386	1739
+bank-tab = 0	6686	988
+bank-tab = 0	3025	980
+bank-tab = 0	2437	990
+bank-tab = 0	2441	990
+bank-tab = 0	3041	1000
+bank-tab = 0	2445	1000
+bank-tab = 0	556	15832
+bank-tab = 0	566	2584
+bank-tab = 0	4152	4
+bank-tab = 0	11841	9
+bank-tab = 0	230	2
+bank-tab = 0	6690	4
+bank-tab = 0	162	4
+bank-tab = 0	150	4
+bank-tab = 0	11908	1
+bank-tab = 0	10829	1
+bank-tab = 0	6692	3
+bank-tab = 0	3031	4
+bank-tab = 0	558	48388
+bank-tab = 0	9076	48874
+bank-tab = 0	561	65740
+bank-tab = 0	12747	1
+bank-tab = 0	11803	6
+bank-tab = 0	12905	1
+bank-tab = 0	4713	1
+bank-tab = 0	4715	1
+bank-tab = 0	527	1
+bank-tab = 0	2580	1
+bank-tab = 0	3027	3
+bank-tab = 0	6688	2
+bank-tab = 0	9245	9939
+bank-tab = 0	11786	1
+bank-tab = 0	2578	1
+bank-tab = 0	12007	8
+bank-tab = 0	12849	1
+bank-tab = 0	12900	1
+bank-tab = 0	6738	1
+bank-tab = 0	6586	9
+bank-tab = 0	11833	5
+bank-tab = 0	11835	6
+bank-tab = 0	12927	1
+bank-tab = 0	11863	1
+bank-tab = 0	2997	5
+bank-tab = 0	160	1
+bank-tab = 0	148	1
+bank-tab = 0	12818	1
+bank-tab = 0	3029	1
+bank-tab = 0	11774	7
+bank-tab = 0	12803	1
+bank-tab = 0	12912	1
+bank-tab = 0	12932	5
+bank-tab = 0	12935	14963000
+bank-tab = 0	146	1
+bank-tab = 0	158	1
+bank-tab = 0	4717	28
+bank-tab = 0	4721	27
+bank-tab = 0	4723	28
+bank-tab = 0	4719	27
+bank-tab = 0	12914	25
+bank-tab = 0	12916	1
+bank-tab = 0	14485	1
+bank-tab = 0	12955	1
+bank-tab = 0	6571	1
+bank-tab = 0	7462	1
+bank-tab = 0	3842	1
+
+
+[FRIENDS]
+character-friend = 56179
+character-friend = 802267424
+character-friend = 10394868
+
+
+[HOLIDAY-EVENTS]
+
+[DEGRADEABLES]
+claim-state = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+
+
+[ACHIEVEMENTS-TIER-1]
+
+
+[ACHIEVEMENTS-TIER-2]
+
+
+[ACHIEVEMENTS-TIER-3]
+
+[IGNORES]
+
+[PRESETS]
+Names = New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	
+Inventory#0 = 
+Equipment#0 = 
+Inventory#1 = 
+Equipment#1 = 
+Inventory#2 = 
+Equipment#2 = 
+Inventory#3 = 
+Equipment#3 = 
+Inventory#4 = 
+Equipment#4 = 
+Inventory#5 = 
+Equipment#5 = 
+Inventory#6 = 
+Equipment#6 = 
+Inventory#7 = 
+Equipment#7 = 
+Inventory#8 = 
+Equipment#8 = 
+Inventory#9 = 
+Equipment#9 = 
+
+[KILLSTREAKS]
+ROGUE = 1
+
+[TITLES]
+
+[NPC-TRACKER]
+Venenatis = 3
+Skeleton = 1
+
+[EOF]
+

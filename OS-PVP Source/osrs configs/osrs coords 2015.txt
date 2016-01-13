@@ -1,0 +1,103 @@
+2268 3070 - zulrah boss room
+3698 5804 - Kraken Cave
+3736 5809 - Smoke devil caves
+2440 9819 - Cave kraken caves
+3748 5761 - Lava place again 
+3375 3167 - Clan wars
+3327 4751 - Inner Clan wars
+2882 5308 2 - God wars
+2608 3117 - NMZ
+2948 4385 2 corp
+3235 10334 - scorpio pit
+3188 3933 - Resource wilderness
+
+Motherlode Mine - 3729 5686 0
+
+
+zulranda - 2205 3055 0
+
+zulrah - 2267 3070
+
+
+castle wars - 2441 3088
+
+clan wars - 3387, 3160, 0
+clan wars bank chest - 3369, 3171
+clan wars - 3367, 3169
+
+clan portal free - 3327, 4751, 0
+
+
+
+
+corp entrace 2945, 4382, 2
+
+corp lair 2974, 4384, 2
+
+
+2268 3070 - zulrah shrine
+
+
+3165 3464 - GE
+
+
+2230 3070
+
+2311 3784
+
+
+
+2914 3611 0
+
+
+2836, 3543, 0 - behind warriors guild
+ladder - 10042
+
+2907, 9968, 0 - advanced warriors guild (dragon defender drops)
+
+new cyclops - 2138
+new cyclops 2 - 2137
+rory - 2136 - 2908, 9972, 0
+lorelai - 2135 - 2909, 9972, 0
+
+warriors guild dragon def area - 2913, 9968, 0
+
+
+
+
+
+Nieve - 490 - 2432, 3423, 0
+Cave - 26709
+
+nieve slayer dungeon - 2444, 9825, 0	9440, 9811
+
+
+
+
+
+
+grand exchange - 3120 3432
+
+wildy godwars 
+3014 3740
+3065 10159 3
+3034 10158 0
+3062 10130 0
+
+
+clan wars - 3396 3104
+clan wars ffa - 3328 4753 - 3327 4751
+
+
+
+
+corporeal beast lair - 2946 4385 2
+corporeal beast lair outside in wildy - 3296 3681 0
+
+
+
+
+
+
+
+

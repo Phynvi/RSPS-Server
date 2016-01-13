@@ -1,0 +1,206 @@
+[ACCOUNT]
+character-username = Mod mack
+character-password = 6a07c26809d867d207381667c1e42055
+
+[CHARACTER]
+character-height = 0
+play-time = 6770
+character-specRestore = 0
+character-posx = 3101
+character-posy = 3490
+bank-pin = 
+bank-pin-cancellation = false
+bank-pin-cancellation-delay = -1
+
+
+[REPAIR GEAR]
+pvpGear = 0	0	0	0	0	
+pvpColl = false	false	false	false	false	
+
+
+[SAVE GEAR]
+saveGear = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+saveAmount = 0	0	0	0	0	0	0	0	0	0	0	
+
+
+[SAVE GEAR1]
+saveGear1 = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+saveAmount1 = 0	0	0	0	0	0	0	0	0	0	0	
+
+
+[SAVE GEAR2]
+saveGear2 = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+saveAmount2 = 0	0	0	0	0	0	0	0	0	0	0	
+
+character-rights = 0
+character-title = Novice
+character-title-color = 6
+connected-from = 192.168.1.4
+removedTask0 = -1
+removedTask1 = -1
+removedTask2 = -1
+removedTask3 = -1
+desert-treasure = 0
+dt-kill = 0
+horror-from-deep = 0
+rfd-round = 0
+quest-points = 0
+cooks-assistant = 0
+lastLoginDate = 0
+has-npc = false
+summonId = 0
+startPack = false
+setPin = false
+wave = 0
+bankPin1 = 0
+bankPin2 = 0
+bankPin3 = 0
+bankPin4 = 0
+hasBankpin = false
+pinRegisteredDeleteDay = 0
+requestPinDelete = false
+slayerPoints =0
+crystal-bow-shots = 0
+skull-timer = -1
+magic-book = 0
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+selected-coffin = 0
+KC =0
+DC =0
+tasksCompleted = 0
+zerkAmount = 0
+pureAmount = 0
+mainAmount = 0
+pkTask = false
+pkTaskComplete = false
+zerkTask = false
+pureTask = false
+mainTask = false
+pkp = 0
+donP =0
+donA =0
+votePoints = 0
+achievement-points = 0
+achievement-items = -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+xpLock = false
+barrows-killcount = 0
+sara-kc = 0
+arma-kc = 0
+bandos-kc = 0
+zammy-kc = 0
+kbd-kc = 0
+chaos-kc = 0
+barrel-kc = 0
+mole-kc = 0
+dagannoth-kc = 0
+kraken-kc = 0
+boss-kc = 0
+teleblock-length = 0
+pc-points = 0
+killStreak = 0
+mute-end = 0
+slayerTask = 0
+taskAmount = 0
+magePoints = 0
+autoRet = 0
+barrowskillcount = 0
+flagged = false
+keepTitle = false
+killTitle = false
+wave = 0
+gwkc = 0
+fightMode = 0
+privatechat = 0
+void = 0	0	0	0	0
+firesLit = 0
+crabsKilled = 0
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	-1	0	
+character-equip = 4	-1	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	13034436
+character-skill = 1	99	13034436
+character-skill = 2	99	13034436
+character-skill = 3	99	13034436
+character-skill = 4	99	13034436
+character-skill = 5	99	13034436
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	4152	1
+character-item = 1	7462	1
+character-item = 2	1128	1
+
+[BANK]
+
+
+[FRIENDS]
+character-friend = 24419289
+
+
+[ACHIEVEMENTS-TIER-1]
+
+
+[ACHIEVEMENTS-TIER-2]
+
+
+[ACHIEVEMENTS-TIER-3]
+
+[IGNORES]
+character-ignore = 17439
+
+[EOF]
+

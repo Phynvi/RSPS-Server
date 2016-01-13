@@ -1,0 +1,396 @@
+[ACCOUNT]
+character-username = Alex
+character-password = 647a8b42c8ba40dea0967e1aa11be4ba
+
+[CHARACTER]
+character-height = 0
+play-time = 104959
+character-specRestore = 0
+character-posx = 3087
+character-posy = 3490
+bank-pin = 
+bank-pin-cancellation = false
+bank-pin-cancellation-delay = -1
+character-rights = 3
+character-title-updated = Owner
+character-title-color = A67711
+connected-from = 127.0.0.1
+connected-from = 96.254.196.5
+removedTask0 = -1
+removedTask1 = -1
+removedTask2 = -1
+removedTask3 = -1
+desert-treasure = 0
+dt-kill = 0
+horror-from-deep = 0
+rfd-round = 0
+quest-points = 0
+cooks-assistant = 0
+lastLoginDate = 0
+has-npc = false
+summonId = -1
+startPack = true
+setPin = false
+slayer-recipefalse
+claimedReward = false
+dragonfire-shield-charge = 0
+wave-id = 0
+wave-type = 0
+wave-info = 0	0	0
+zulrah-best-time = 20
+toxic-pipe-ammo = 0
+toxic-pipe-amount = 0
+toxic-pipe-charge = 0
+serpentine-helm = 0
+toxic-staff-of-dead = 0
+trident-of-the-seas = 880
+trident-of-the-swamp = 904
+bankPin1 = 0
+bankPin2 = 0
+bankPin3 = 0
+bankPin4 = 0
+hasBankpin = false
+pinRegisteredDeleteDay = 0
+requestPinDelete = false
+slayerPoints =8570
+crystal-bow-shots = 0
+skull-timer = -1
+magic-book = 0
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+prayer-amount = 0.4675004133578977
+selected-coffin = 0
+KC =500
+DC =51
+total-hunter-kills = 100
+total-rogue-kills = 150
+target-time-delay = 0
+bh-penalties = 0
+bh-bounties = 377650000
+statistics-visible = true
+spell-accessible = true
+zerkAmount = 
+pkp = 11494
+donP =22185
+donA =1000
+giftA =0
+votePoints = 24255
+achievement-points = 0
+achievement-items = -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+xpLock = false
+teleblock-length = 0
+pc-points = 8500
+killStreak = 0
+bonus-end = 0
+jail-end = 0
+mute-end = 0
+marketmute-end = 0
+ban-end = 0
+splitChat = false
+slayerTask = 2834
+taskAmount = 34
+magePoints = 0
+autoRet = 0
+barrowskillcount = 0
+flagged = false
+keepTitle = false
+killTitle = false
+wave = 0
+gwkc = 0
+fightMode = 2
+privatechat = 0
+void = 0	0	0	0	0
+firesLit = 0
+crabsKilled = 0
+farming-patch-0 = 0	0	0	0
+lost-items = 
+[EQUIPMENT]
+character-equip = 0	11826	1	
+character-equip = 1	6570	1	
+character-equip = 2	12436	1	
+character-equip = 3	11785	1	
+character-equip = 4	11828	1	
+character-equip = 5	12817	1	
+character-equip = 6	-1	0	
+character-equip = 7	11830	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	2577	1	
+character-equip = 11	-1	0	
+character-equip = 12	11771	1	
+character-equip = 13	9244	20000	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	3
+character-look = 2	18
+character-look = 3	26
+character-look = 4	34
+character-look = 5	38
+character-look = 6	43
+character-look = 7	14
+character-look = 8	1
+character-look = 9	5
+character-look = 10	8
+character-look = 11	5
+character-look = 12	2
+
+[SKILLS]
+character-skill = 0	99	20003000
+character-skill = 1	99	20000000
+character-skill = 2	99	20007075
+character-skill = 3	99	20037291
+character-skill = 4	99	20054750
+character-skill = 5	99	20000570
+character-skill = 6	99	20072135
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	9	1008
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+bank-tab = 0	11803	3
+bank-tab = 0	10888	1
+bank-tab = 0	11786	5
+bank-tab = 0	11792	6
+bank-tab = 0	6586	6
+bank-tab = 0	11145	4
+bank-tab = 0	11062	1
+bank-tab = 0	2573	6
+bank-tab = 0	11779	1
+bank-tab = 0	11773	5
+bank-tab = 0	1054	1
+bank-tab = 0	1058	1
+bank-tab = 0	1056	1
+bank-tab = 0	1049	1
+bank-tab = 0	1039	1
+bank-tab = 0	1047	1
+bank-tab = 0	1045	1
+bank-tab = 0	1041	1
+bank-tab = 0	1420	2
+bank-tab = 0	4567	1
+bank-tab = 0	1038	1
+bank-tab = 0	4085	2
+bank-tab = 0	6200	4
+bank-tab = 0	2997	376
+bank-tab = 0	12696	196
+bank-tab = 0	12847	1
+bank-tab = 0	12801	1
+bank-tab = 0	12799	1
+bank-tab = 0	12787	1
+bank-tab = 0	12609	1
+bank-tab = 0	12611	1
+bank-tab = 0	12458	1
+bank-tab = 0	12459	1
+bank-tab = 0	12460	1
+bank-tab = 0	12420	1
+bank-tab = 0	12421	1
+bank-tab = 0	12422	1
+bank-tab = 0	6734	2
+bank-tab = 0	6732	1
+bank-tab = 0	6736	1
+bank-tab = 0	7463	4
+bank-tab = 0	10552	6
+bank-tab = 0	1051	5
+bank-tab = 0	12852	1
+bank-tab = 0	12786	1
+bank-tab = 0	10549	2
+bank-tab = 0	11839	1
+bank-tab = 0	11236	1
+bank-tab = 0	2578	4
+bank-tab = 0	2582	5
+bank-tab = 0	6915	5
+bank-tab = 0	6890	5
+bank-tab = 0	6919	1
+bank-tab = 0	6917	1
+bank-tab = 0	6925	1
+bank-tab = 0	6923	1
+bank-tab = 0	12857	1
+bank-tab = 0	6738	1
+bank-tab = 0	12850	1
+bank-tab = 0	12810	1
+bank-tab = 0	10500	2
+bank-tab = 0	9186	2
+bank-tab = 0	862	2
+bank-tab = 0	9245	99979880
+bank-tab = 0	893	100000175
+bank-tab = 0	3750	2
+bank-tab = 0	1713	3
+bank-tab = 0	7462	2
+bank-tab = 0	2498	2
+bank-tab = 0	1188	2
+bank-tab = 0	8842	1
+bank-tab = 0	2504	2
+bank-tab = 0	386	13966
+bank-tab = 0	6686	10000
+bank-tab = 0	3025	9987
+bank-tab = 0	2437	10000
+bank-tab = 0	2441	10000
+bank-tab = 0	3041	9998
+bank-tab = 0	2445	9997
+bank-tab = 0	3027	2
+bank-tab = 0	1043	1
+bank-tab = 0	12750	1
+bank-tab = 0	12250	1
+bank-tab = 0	11833	1
+bank-tab = 0	11835	1
+bank-tab = 0	5699	2
+bank-tab = 0	12409	1
+bank-tab = 0	8922	1
+bank-tab = 0	4082	1
+bank-tab = 0	12654	1
+bank-tab = 0	12653	1
+bank-tab = 0	12651	1
+bank-tab = 0	12849	1
+bank-tab = 0	11284	1
+bank-tab = 0	11927	1
+bank-tab = 0	11937	9929
+bank-tab = 0	230	3
+bank-tab = 0	172	1
+bank-tab = 0	3029	3
+bank-tab = 0	392	31
+bank-tab = 0	384	100
+bank-tab = 0	12700	2
+bank-tab = 0	3045	2
+bank-tab = 0	12766	1
+bank-tab = 0	12767	1
+bank-tab = 0	12768	1
+bank-tab = 0	12769	1
+bank-tab = 0	2698	1
+bank-tab = 0	2699	1
+bank-tab = 0	2700	1
+bank-tab = 0	2701	1
+bank-tab = 0	2702	1
+bank-tab = 0	8902	1
+bank-tab = 0	4165	1
+bank-tab = 0	4552	1
+bank-tab = 0	4167	1
+bank-tab = 0	4169	1
+bank-tab = 0	2840	1
+bank-tab = 0	12935	3165
+bank-tab = 0	12914	25
+bank-tab = 0	1276	4
+bank-tab = 0	304	3
+bank-tab = 0	306	3
+bank-tab = 0	308	3
+bank-tab = 0	310	3
+bank-tab = 0	302	3
+bank-tab = 0	312	3
+bank-tab = 0	3158	3
+bank-tab = 0	11941	500
+bank-tab = 0	314	500
+bank-tab = 0	315	500
+bank-tab = 0	4156	5
+bank-tab = 0	1541	5
+bank-tab = 0	1266	3
+bank-tab = 0	1352	3
+bank-tab = 0	1360	5
+bank-tab = 0	996	99785164
+bank-tab = 0	439	2
+bank-tab = 0	437	2
+bank-tab = 0	12007	1
+bank-tab = 0	11774	1
+bank-tab = 0	11666	1
+bank-tab = 0	11841	2
+bank-tab = 0	12918	2
+bank-tab = 0	3031	2
+bank-tab = 0	174	1
+bank-tab = 0	12900	1
+bank-tab = 0	558	2960
+bank-tab = 0	9076	2984
+bank-tab = 0	561	2992
+bank-tab = 0	11665	1
+bank-tab = 0	12698	1
+bank-tab = 0	2551	1
+bank-tab = 0	12920	1
+bank-tab = 0	12807	1
+bank-tab = 0	170	1
+bank-tab = 0	537	118
+bank-tab = 0	11771	1
+bank-tab = 0	11664	1
+bank-tab = 0	8840	1
+bank-tab = 0	8841	1
+bank-tab = 0	6921	1
+bank-tab = 0	8843	1
+bank-tab = 0	11908	1
+bank-tab = 0	12613	1
+bank-tab = 0	12856	1
+bank-tab = 0	2553	1
+bank-tab = 0	14485	1
+
+
+[FRIENDS]
+character-friend = 35672571
+
+
+[HOLIDAY-EVENTS]
+
+[DEGRADEABLES]
+claim-state = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+
+
+[ACHIEVEMENTS-TIER-1]
+
+
+[ACHIEVEMENTS-TIER-2]
+
+
+[ACHIEVEMENTS-TIER-3]
+
+[IGNORES]
+
+[PRESETS]
+Names = Nipples	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	
+Inventory#0 = 
+Equipment#0 = 
+Inventory#1 = 
+Equipment#1 = 
+Inventory#2 = 
+Equipment#2 = 
+Inventory#3 = 
+Equipment#3 = 
+Inventory#4 = 
+Equipment#4 = 
+Inventory#5 = 
+Equipment#5 = 
+Inventory#6 = 
+Equipment#6 = 
+Inventory#7 = 
+Equipment#7 = 
+Inventory#8 = 
+Equipment#8 = 
+Inventory#9 = 
+Equipment#9 = 
+
+[KILLSTREAKS]
+
+[TITLES]
+title = EXECUTIVE_OFFICER
+title = CUSTOM
+
+[NPC-TRACKER]
+Kraken = 2
+
+[EOF]
+

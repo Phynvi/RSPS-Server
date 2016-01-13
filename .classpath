@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="OS-PVP Source/Data"/>
+	<classpathentry excluding="ab/model/players/packets/commands/admin/|test/" kind="src" path="OS-PVP Source/src"/>
+	<classpathentry kind="src" path="OS-PVP Source/src/ab/model/players/packets/commands/admin"/>
+	<classpathentry kind="src" path="OS-PVP Source/src/test"/>
+	<classpathentry kind="lib" path="OS-PVP Source/AccountTool.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/c3p0-0.9.5-pre10.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/GTLVote.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/guava-18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/jna.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/jython.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/mchange-commons-java-0.2.8.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/Motivote-server.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/mysql.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/netty.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/oshi-core.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/platform.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/poi.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/slf4j-nop.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/slf4j.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/deps/xstream.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="OS-PVP Source/ospvp.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="OS-PVP Source/bin - Copy"/>
+</classpath>

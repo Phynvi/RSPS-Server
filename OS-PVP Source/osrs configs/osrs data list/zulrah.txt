@@ -1,0 +1,114 @@
+zulrah id: 2042
+melee zulrah id: 2043
+mage zulrah id: 2044
+ 
+mage projectile 1046
+range projectile: 1044
+toxic cloud projectile: 1045
+spawn snakeling projectile: 1047
+ 
+shoot animation: 5069
+go down/death animation: 5072
+go up animation: 5073
+melee target animation: 5806
+melee attack animation: 5807
+
+5072 - death animation 
+
+toxic cloud object id - 11700
+
+corporeal beast
+
+1686 - slam down 
+1682 - left arm out scratch
+1683 - right arm out scratch
+1680 - bite
+
+
+callisto
+4925 - attack
+4920 - attack
+4928 - block
+4929 - death
+
+
+Venenatis
+
+5321 - death
+5320 - block
+5319 - attack
+
+Scorpia
+6254 - attack with tail
+6256 - death
+6255 - claws cross (maybe a block)
+
+
+Vet'ion
+
+5490-5510
+
+2795 - stroke animation
+
+Trident of the seas
+anim - 7137
+
+Trident of the Seas
+anim : 7137
+cast gfx: 1039
+hit gfx : 1042
+prjctile: 1040
+
+Triden of the Swamp
+cast gfx: 1043
+hit gfx : 1044
+prjctile: 1045
+
+staff of the dead
+Staff of the dead special
+anim : 7083
+gfx : 1228
+
+Toxic staff of the dead special
+anim : 1720
+gfx : 1228
+
+dragon pick,
+anim : 7138
+anim for mining: 7139
+anim for mining 2: 7140
+
+crystal halberd gfx anim
+anim : 1203
+gfx : 1234
+
+armadyl crossbow gfx
+gfx : 301
+
+Saradomin sword
+anim : 1132 - normal special
+anim : 1133 - blessed ss special
+
+
+blowpipe
+anim : 5061
+
+
+
+
+tredium start 1251
+projectile 1252
+end gfx 1253
+
+1996 sara sword end
+
+
+Elysian spirit shield 321
+
+//corp
+small projectile (attack?) 314
+small projectile (attack?) 315
+big projectile with spikes(attack ranged?) 316
+ground gfx 317
+possibly melee gfx (stomp?) 318 
+core spawn? 319

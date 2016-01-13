@@ -1,0 +1,97 @@
+OBJECTS:
+1510 - CAGE/HARPOON LOBS/SWORDFISH ANIM 618
+1511 - NET/HARPOON - SHARKS ANIM 619
+
+lumbridge staircases
+16671 first floor, 16672 second floor, 16673 third floor
+
+ANIM: 6707 6708 6709 - TUNA/SWORDFISH BARB FISHING BAREHANDED
+
+NPCS:
+
+3227 - Bank Tutor - 3208	3222	2
+306 - Lumbridge Guide 3231	3231	0
+311 - Adam - 3228	3227	0
+317 - Paul - 3229	3226	0
+119 - Doomslayer - 3232	3229	0
+3262 - Donie - 3226	3230	0
+3085 - Woman - 3232	3237	0
+5523 (4020) - Hatius Cosaintus - 3239	3220	0
+505 - Bob - 3231	3203	0
+921 - Father Aereck - 3245	3205	0
+3216 - Melee Instructor - 3219	3239	0
+3217 - Ranged Instructor - 3217	3239	0
+3218 - Magic Instructor - 3217	3237	0
+506 - Shop keeper - 3211	3246	0
+507 - Shop assistant - 3212	3244	0
+3224 - Smithing Apprentice - 3228	3253	0
+3226 - Woodsman Tutor - 3228	3246	0
+
+
+
+
+2692 - Chicken
+2693 - Chicken
+2807 - Cow calf - 
+2808 - Cow - 
+2809 - Cow - 
+
+2692, 2693 - chicken - 5387 attack, 5388 block, 5389 death
+3029, 3030, 3031, 3035, 3036, goblin - 6184 attack, 6183 block, 6182 death
+
+
+
+
+ANIMATIONS:
+
+
+6707 - catching barehanded tuna/swordfish
+6708 - catching barehanded tuna/swordfish
+6709 - fish missed barehanded tuna/swordfish
+
+
+TENTACLE - 1658
+
+Godsword attacks
+7045, 7046, 7055, 7054
+
+AGS - ATTACK - 7045  BLOCK - 7056 SPECIAL - 7061
+SGS - SPECIAL - 7058
+ZGS - SPECIAL - 7057
+BGS - SPECIAL - 7060
+
+zgs atk 7055
+
+VENG - 4410
+
+DBOW SPEC - 426
+
+ARMADYL CBOW - 4230
+
+HOME TELEPORT ANIM - START 4847 - END - 4843, 4845, 4847
+NEW TELEPORT ANIM - START ANIM 3864 - END AMIM - -1
+NORMAL TELEPORT ANIM - 714
+
+HIGH ALCHEMY - 713
+FIRESTRIKE - 1162
+
+zammy spear block - 1709
+zammy spear - Lunge - 1711
+zammy hasta - 440
+jab animation - 420
+
+6294 - humidify
+6303 - make hunter kit
+722 - magic imbue
+
+1979 - barrage spells
+1978 - rush spells
+
+440 - crystal halberd spec
+
+7083 - staff of the dead special
+1720 - toxic staff of dead special
+
+sara blessed sword - 7045
+
+sara blessed sword spec anim 1133

@@ -1,0 +1,183 @@
+//TODO 
+LOGS: PASS 1gBl.xD&HdnP
+      USER ospvpstaff
+
+8/11/2015 7:51 PM
+-------------------
+*Item combinations now have full support for level requirements; the corresponding level requirements have been 
+added for the following item(s): 
+
+-> Arcane spirit shield
+-> Elysian spirit shield
+-> Spectral spirit shield
+
+*The HP data orb now has full support for: 
+
+->Effects of toxicity
+->Effects of poison
+
+
+8/12/2015 11:42 AM 
+-------------------
+*Added the wilderness ditch
+*Added proper 'Fire' objects for firemaking
+
+
+
+*The Hitpoints orb now has full support for the effects of toxicity and poison
+
+*The wilderness ditch has been added 
+
+*Item combinations now have full support for level requirements; the corresponding level requirements have been 
+added for the following item(s): 
+-> Arcane spirit shield
+-> Elysian spirit shield
+-> Spectral spirit shield
+
+*The middle mouse button now walks to the specified destination when the mouse-camera option is disabled.
+
+*Administrators now have the ability to toggle their attackability.
+
+*Fires now use their old object models.
+
+*Added OldSchool RS maps
+
+*Added the ability to broadcast messages globally
+
+8/13/2015 12:21 PM 
+--------------------
+
+*Administrators can no longer execute a global broadcast whilst an update is in progress
+
+*A bug in which players are unable to see their hitmarks is being looked into
+
+*Progress on the Clan Wars minigame is continuously increasing; the estimated release for the Free-for-all portal is
+about sometime next week
+
+*Improvements have been made to the wilderness ditch; a bug in which players were teleported after spam clicking the ditch
+has been patched
+
+*Level markers have been removed for boss pets
+
+*Ironman armor has been added
+
+
+8/14/2015 
+-----------
+
+*Roof removal is now toggleable
+*Added a dialogue for the TzRek-Jad pet
+*Wildy ditch
+*Clan Wars ffa
+*The Chaos Elemental pet has been graphically reworked
+
+http://prntscr.com/84f9kr http://i.imgur.com/uyVi3Hr.png
+
+8/16/2015
+----------
+
+*XP drop counter has been reworked & the corresponding skill now displays
+*XP drop orb has been added
+*F-key toggle setting no longer appears blurry (don't worry; your vision wasn't going bad!)
+
+8/19/2015
+----------
+
+*NPC configuration loading has been reworked; all NPCs should now have proper health levels, names, and animations
+*Dialogue management has been reworked and now has expression support
+*Administrators can now set their debug mode
+*The blinking cursor has been replaced with a proper asterisk (*)
+*The chat bubble that appeared next to players' names has been removed
+*The Grand Exchange map area has been added
+*A small building with a furnace has been added to Edgeville
+*Hitbox integration is here; please sign up if you wish for players to receive
+in-game broadcasts when your stream has gone live
+*Added the Grand Exchange shortcut.
+*Shop windows now have a proper 'Close' button in place of the 'Close window' text
+
+8/20/2015
+----------
+
+*Added logout button & moved clan chat button
+*Pack new models & model header?
+
+
+POLL IDEA
+-----------
+Jad pet
+OSRS bosses
+
+Regarding recent activity
+Hello,
+
+I am writing to you to bring up a few concerns, as you seem to be the only representative of OS-Veldahar not coward to an opinion that differs from that which Jason has embalmed into your minds (as well as this, you're the only member of their staff presently registered on our forums). As of recently, it's been acknowledged that the level of competition has been heightened between that of OS-PvP and OS-Veldahar. Normally, I'd not address any sort of thing unless I'd felt personally threatened, and given the events that had occurred between yesterday and today, I was given no choice but to feel this way.
+
+I must address that later yesterday, I'd been banned for no apparent reason in a rather distasteful manner from OS-Veldahar, (I'd been AFKing; you may check logs as you please). Your 'faithful' owner (Jason) and I had come to the agreement that both he and you as members of the OS-Veldahar staff team were free to enter the boundaries of OS-PvP as they saw fit, provided that they'd not committed any actions of misconduct or incited a round of riot or advertisement in any form - this agreement worked vice versa, as I understand. This action seems to have rendered this agreement null and void, as I'd given Jason a day's time for clarification to no avail.
+
+In addition to this, recently, as you may indeed have acknowledged, attacks have been committed in-game that we feel were largely a result of someone on your end. We are not wishing to retaliate at the present moment, however if further action is committed that we feel is associated with OS-Veldahar, then consequently, further action is inherently deemed imperative on our end of things. 
+
+Despite what this message may suggest, we are not, in any form, demanding retaliation in any way, nor do we condone further dispute between OS-PvP and OS-Veldahar. Personally, it appalls me that your "faithful" owner (or any member of your staff or community, for that manner) would take the liberty of devoting their time to decompiling and deobfuscating our client for the purpose of misuse and abuse, let alone commit any action of violence against such a community of peace. 
+
+On the opposite side of things, I must concede that we are NOT 'out to get' those associated with OS-Veldahar, despite what situations may lead you to infer. We have been rebuilt upon the standard of respect, and we'd simply ask the same of OS-Veldahar. Please allow this message to represent, in whole and in part, our request to keep any attacks in check and keep any direct dispute (if it must occur) behind the scenes and out of the view of the public eye. Neither of our communities need this, and we feel it's best to focus on development and progress rather than conflict and confusion.
+
+I kindly invite you to pass this message on to your staff and affiliates, Jason included.
+
+Thank you,
+
+Chris
+
+
+[QUOTE=Max _;4941922]Sat in the corner of Zulrahs shine while reading posts on this thread, all for 550 scales.
+
+Really though, worse Zulrah emulation.
+But that's what is expected from someone who's not even able to add ditch hopping.[/QUOTE]
+
+Well, since we're gravedigging here, first off, the ditch hopping was a last-minute addition and since we're being constantly attacked, we'd rather spend our time working on security over the next few weeks than on adding useless content such as a simple object that uses force movement. While we're on the topic of clan wars, yes, I will concede that it's height based, but unlike anything YOU could ever develop, it's based upon an actual region-based instancing system implemented when Jason was a developer here.
+
+Overall, quite a big set of words (and balls) for someone who's not contributed one piece of useful content to this community, but we appreciate your efforts in trying. By the way, thanks for attempting to charge 40 dollars to change OSRS orbs and copy and paste a piece of content from a client you wrote years ago. I applaud your work *sarcasm*.
+
+And since you've asked, here's a very small snippet of clan wars that I've been spending my time writing.
+
+[CODE]
+/**
+	 * Gets the {@code ClanWarsMap} for the specified {@code ClanWars} war.
+	 * @return boundary	the map
+	 */
+	private static ClanWarsMap getMap() {
+		return boundary;
+	}
+
+/**
+	 * Gets a set of <code>ClanWarsRules</code> associated with an object of Clan Wars.
+	 * @return	rules	the rules
+	 */
+	private static ClanWarsRules getRules() {
+		return rules;
+	}
+	
+	/**
+	 * Adds members of both clans to the <code>ClanWarsMap</code>.
+	 * @param player	the host player & their clan
+	 * @param other		the opposing player & their clan
+	 */
+	public static void addMembersToMap(Clan host, Clan other) {
+		Boundary map = getMap().getBoundary();
+		for (String activeHostMembers : host.activeMembers) {
+			Player members = PlayerHandler.getPlayer(activeHostMembers);
+			if (Boundary.isIn(members, boundary.forMap(ClanWarsMap.LOBBY))) {
+				members.getPA().movePlayer(getMap().getHostCoords()[0], 
+										   getMap().getHostCoords()[1], 0);
+			}
+		}
+		for (String activeOpposingMembers : other.activeMembers){
+			Player opposing = PlayerHandler.getPlayer(activeOpposingMembers);
+			if (Boundary.isIn(opposing, boundary.forMap(ClanWarsMap.LOBBY))) {
+				opposing.getPA().movePlayer(getMap().getOpposingCoords()[0], 
+										    getMap().getOpposingCoords()[1], 0);
+			}
+		}
+	}
+[/CODE]
+
+
+ 

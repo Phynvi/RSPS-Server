@@ -1,0 +1,267 @@
+[ACCOUNT]
+character-username = Nick
+character-password = 7fd573480c74117659e8c5fd2855c37e
+
+[CHARACTER]
+character-height = 0
+play-time = 1198
+character-specRestore = 0
+character-posx = 3087
+character-posy = 3520
+bank-pin = 
+bank-pin-cancellation = false
+bank-pin-cancellation-delay = -1
+character-rights = 0
+character-title-updated = 
+character-title-color = 
+killed-players = 108.231.2.62
+removedTask0 = -1
+removedTask1 = -1
+removedTask2 = -1
+removedTask3 = -1
+desert-treasure = 0
+dt-kill = 0
+horror-from-deep = 0
+rfd-round = 0
+quest-points = 0
+cooks-assistant = 0
+lastLoginDate = 0
+has-npc = false
+summonId = 0
+startPack = true
+setPin = false
+slayer-recipefalse
+claimedReward = false
+dragonfire-shield-charge = 0
+wave-id = 0
+wave-type = 0
+wave-info = 0	0	0
+zulrah-best-time = 0
+toxic-pipe-ammo = 0
+toxic-pipe-amount = 0
+toxic-pipe-charge = 0
+serpentine-helm = 0
+toxic-staff-of-dead = 0
+trident-of-the-seas = 0
+trident-of-the-swamp = 0
+bankPin1 = 0
+bankPin2 = 0
+bankPin3 = 0
+bankPin4 = 0
+hasBankpin = false
+pinRegisteredDeleteDay = 0
+requestPinDelete = false
+slayerPoints =0
+crystal-bow-shots = 0
+skull-timer = 153
+magic-book = 2
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+prayer-amount = 0.983471074380162
+selected-coffin = 0
+KC =1
+DC =1
+total-hunter-kills = 1
+total-rogue-kills = 0
+target-time-delay = 500
+bh-penalties = 0
+bh-bounties = 0
+statistics-visible = true
+spell-accessible = false
+zerkAmount = 
+pkp = 3
+donP =0
+donA =0
+giftA =0
+votePoints = 0
+achievement-points = 0
+achievement-items = -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+xpLock = false
+teleblock-length = 0
+pc-points = 0
+killStreak = 0
+bonus-end = 0
+jail-end = 0
+mute-end = 0
+marketmute-end = 0
+ban-end = 0
+splitChat = false
+slayerTask = 0
+taskAmount = 0
+magePoints = 0
+autoRet = 0
+barrowskillcount = 0
+flagged = false
+keepTitle = false
+killTitle = false
+wave = 0
+gwkc = 0
+fightMode = 0
+privatechat = 0
+void = 0	0	0	0	0
+firesLit = 0
+crabsKilled = 0
+farming-patch-0 = 0	0	0	0
+lost-items = 
+[EQUIPMENT]
+character-equip = 0	10828	1	
+character-equip = 1	2414	1	
+character-equip = 2	1712	1	
+character-equip = 3	4151	1	
+character-equip = 4	1127	1	
+character-equip = 5	1201	1	
+character-equip = 6	-1	0	
+character-equip = 7	1079	1	
+character-equip = 8	-1	0	
+character-equip = 9	7461	1	
+character-equip = 10	11840	1	
+character-equip = 11	-1	0	
+character-equip = 12	2550	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	114	13039111
+character-skill = 1	99	13034436
+character-skill = 2	114	13034436
+character-skill = 3	41	13035991
+character-skill = 4	99	13034436
+character-skill = 5	0	13034436
+character-skill = 6	99	13074436
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	558	130
+character-item = 1	9076	142
+character-item = 2	561	146
+character-item = 3	146	1
+character-item = 6	386	1
+character-item = 7	158	1
+character-item = 8	386	1
+character-item = 9	386	1
+character-item = 10	386	1
+character-item = 11	386	1
+character-item = 12	386	1
+character-item = 13	386	1
+character-item = 14	386	1
+character-item = 15	386	1
+character-item = 16	386	1
+character-item = 17	386	1
+character-item = 18	386	1
+character-item = 19	386	1
+character-item = 20	5699	1
+character-item = 21	386	1
+character-item = 22	386	1
+character-item = 23	386	1
+character-item = 24	386	1
+character-item = 25	386	1
+character-item = 26	386	1
+character-item = 27	386	1
+
+[BANK]
+bank-tab = 0	996	2000000
+bank-tab = 0	386	950
+bank-tab = 0	6686	999
+bank-tab = 0	3025	998
+bank-tab = 0	2437	998
+bank-tab = 0	2441	998
+bank-tab = 0	3041	1000
+bank-tab = 0	2445	1000
+bank-tab = 0	558	700
+bank-tab = 0	9076	700
+bank-tab = 0	556	1000
+bank-tab = 0	566	1000
+bank-tab = 0	561	700
+bank-tab = 0	7462	1
+bank-tab = 0	158	1
+bank-tab = 0	146	1
+bank-tab = 0	12747	1
+
+
+[FRIENDS]
+
+
+[HOLIDAY-EVENTS]
+
+[DEGRADEABLES]
+claim-state = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+
+
+[ACHIEVEMENTS-TIER-1]
+
+
+[ACHIEVEMENTS-TIER-2]
+
+
+[ACHIEVEMENTS-TIER-3]
+
+[IGNORES]
+
+[PRESETS]
+Names = New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	
+Inventory#0 = 
+Equipment#0 = 
+Inventory#1 = 
+Equipment#1 = 
+Inventory#2 = 
+Equipment#2 = 
+Inventory#3 = 
+Equipment#3 = 
+Inventory#4 = 
+Equipment#4 = 
+Inventory#5 = 
+Equipment#5 = 
+Inventory#6 = 
+Equipment#6 = 
+Inventory#7 = 
+Equipment#7 = 
+Inventory#8 = 
+Equipment#8 = 
+Inventory#9 = 
+Equipment#9 = 
+
+[KILLSTREAKS]
+HUNTER = 1
+
+[TITLES]
+
+[NPC-TRACKER]
+
+[EOF]
+
